@@ -1,0 +1,4 @@
+Dataset: LJSpeech 1.1
+Task: English sentence-level speech recognition
+Dataset page: https://keithito.com/LJ-Speech-Dataset/
+The project defaults to 3000 utterances.

@@ -1,0 +1,19 @@
+Speech_Recognition_CTC_Sentence
+|
++-- train.py
++-- predict.py
++-- app.py
++-- requirements.txt
++-- README.md
+|
++-- src
+|   +-- config.py
+|   +-- data_utils.py
+|   +-- model.py
+|   +-- download_dataset.py
+|
++-- data
++-- models
++-- outputs
+
+VOICE -> FEATURES -> BiLSTM -> CTC -> TEXT
